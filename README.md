@@ -3,4 +3,4 @@ Google CS, from https://appliedcsskills.withgoogle.com/
 
 AnagramDictionary goes with the Anagram_starter.zip 
 
-MainActivity.xml and MainActivity.java goes with ScarnesDice
+activity_main.xml and MainActivity.java goes with ScarnesDice
